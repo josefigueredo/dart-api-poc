@@ -1,0 +1,10 @@
+name: persons_answers
+version: 0.0.1
+description: >
+  Q&A app written with Dart
+environment:
+  sdk: '^2.0.0'
+dependencies:
+  http: '^0.11.3+17'
+  logging: '^0.11.3+2'
+  rpc: '^0.6.0'
